@@ -1,8 +1,11 @@
 const data = {
   sellOrders: [
     {
+      _id: 1,
+      creationDate: "YYYY-MM-DD",
       orderInfo: {
         externalOrderNumber: 1,
+        sellerStore: "The better store",
         buyerName: "Pepe",
         buyerPhone: "333445566",
         buyerEmail: "mail@mail.com",
@@ -13,6 +16,7 @@ const data = {
         region: "Cundinamarca",
         country: "Colombia",
       },
+      shippingMethod: "Express",
       promiseDates: {
         pack_promise_min: 1,
         pack_promise_max: 1,
@@ -32,8 +36,11 @@ const data = {
       ],
     },
     {
+      _id: 1,
+      creationDate: "YYYY-MM-DD",
       orderInfo: {
         externalOrderNumber: 1,
+        sellerStore: "The better store",
         buyerName: "Pepe",
         buyerPhone: "333445566",
         buyerEmail: "mail@mail.com",
@@ -44,6 +51,7 @@ const data = {
         region: "Cundinamarca",
         country: "Colombia",
       },
+      shippingMethod: "Express",
       promiseDates: {
         pack_promise_min: 1,
         pack_promise_max: 1,
@@ -63,8 +71,11 @@ const data = {
       ],
     },
     {
+      _id: 1,
+      creationDate: "YYYY-MM-DD",
       orderInfo: {
         externalOrderNumber: 1,
+        sellerStore: "The better store",
         buyerName: "Pepe",
         buyerPhone: "333445566",
         buyerEmail: "mail@mail.com",
@@ -75,6 +86,7 @@ const data = {
         region: "Cundinamarca",
         country: "Colombia",
       },
+      shippingMethod: "Express",
       promiseDates: {
         pack_promise_min: 1,
         pack_promise_max: 1,
@@ -94,8 +106,11 @@ const data = {
       ],
     },
     {
+      _id: 1,
+      creationDate: "YYYY-MM-DD",
       orderInfo: {
         externalOrderNumber: 1,
+        sellerStore: "The better store",
         buyerName: "Pepe",
         buyerPhone: "333445566",
         buyerEmail: "mail@mail.com",
@@ -106,6 +121,7 @@ const data = {
         region: "Cundinamarca",
         country: "Colombia",
       },
+      shippingMethod: "Express",
       promiseDates: {
         pack_promise_min: 1,
         pack_promise_max: 1,
@@ -125,8 +141,11 @@ const data = {
       ],
     },
     {
+      _id: 1,
+      creationDate: "YYYY-MM-DD",
       orderInfo: {
         externalOrderNumber: 1,
+        sellerStore: "The better store",
         buyerName: "Pepe",
         buyerPhone: "333445566",
         buyerEmail: "mail@mail.com",
@@ -137,6 +156,7 @@ const data = {
         region: "Cundinamarca",
         country: "Colombia",
       },
+      shippingMethod: "Express",
       promiseDates: {
         pack_promise_min: 1,
         pack_promise_max: 1,
